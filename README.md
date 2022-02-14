@@ -1,2 +1,2 @@
 # Algorithm
-Solving BaekJoon
+💡Solving BaekJoon
