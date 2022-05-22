@@ -2,7 +2,6 @@ import sys, heapq
 import math
 inf=math.inf
 
-
 def dijkstra(x):
     q=[]
     heapq.heappush(q,(0,x))
