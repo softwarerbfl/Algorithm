@@ -20,7 +20,6 @@ while True:
         break
     pre=cur
     cur=(pre+(k-1))%count
-    #cur,pre=(pre+2)%count, cur
 
 print("<",end="")
 print(ans[0],end="")
