@@ -1,7 +1,6 @@
 import sys
 n=int(sys.stdin.readline())
 tree={}
-visited=[]
 #전위 순회 : root를 먼저 방문
 def preorder(tree, key):
     ch1,ch2=tree[key]
