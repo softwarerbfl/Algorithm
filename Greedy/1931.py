@@ -17,7 +17,5 @@ for i in range(1, n):
     if l_list[i][1]>=before_end :
         before_end=l_list[i][0]
         count+=1
-    else:
-        continue
 
 print(count)
